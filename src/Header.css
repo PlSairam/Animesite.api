@@ -1,0 +1,24 @@
+.abc{
+    text-align:left;
+    position:relative;
+    left: 5px;
+    color: black;
+}
+img{
+    padding:5% ;
+}
+a{
+
+    text-size-adjust:initial;
+    color:white;
+    
+    text-decoration:none ;
+}
+ a{
+    padding-left: 13%;
+ }
+ .container{
+    max-width: 50%;
+    max-height: 70%;
+    border-radius: 200px;
+ }
